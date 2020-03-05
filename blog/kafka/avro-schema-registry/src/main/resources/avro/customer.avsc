@@ -1,0 +1,16 @@
+{
+    "namespace": "com.blog.onehandcoder.kafka",
+    "type": "record",
+    "name": "Customer",
+    "version": "1",
+    "fields": [
+        {
+            "name": "name",
+            "type": "string"
+        },
+        {
+            "name": "age",
+            "type": "int"
+        }
+    ]
+}
